@@ -1,2 +1,2 @@
-# skyline-tech table2
-A table designed to capture student details
+# skyline-tech table3
+A table designed for students course registration

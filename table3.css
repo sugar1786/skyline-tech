@@ -1,0 +1,36 @@
+.container{
+    width: 80%;
+    margin: auto;
+    padding-top: 50px;
+}
+table{
+    width: 100%;
+}
+table,td,th{
+    border-top: 1px solid lightgray;
+    border-collapse: collapse;
+}
+th{
+    background-color: dodgerblue;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 20px;
+    color: white;
+}
+caption{
+    background-color: orange;
+    width: 30%;
+    color: white;
+    border-radius: 10px;
+    padding: 10px;
+    margin: 10px;
+    margin: auto;
+    margin-bottom: 20px;
+    font-size: 25px;
+    font-weight: 700;
+}
+td,th{
+    padding: 10px;
+}
+tr:hover{
+    background-color:lightgray;
+}
