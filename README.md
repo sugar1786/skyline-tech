@@ -1,2 +1,2 @@
-# skyline-tech table1
-A form designed for student grade
+# skyline-tech table2
+A table designed to capture student details
